@@ -22,6 +22,7 @@ export { default as Italic } from './marks/Italic'
 export { default as Link } from './marks/Link'
 export { default as Strike } from './marks/Strike'
 export { default as Underline } from './marks/Underline'
+export { default as TextColor } from './marks/TextColor'
 
 export { default as Collaboration } from './extensions/Collaboration'
 export { default as Focus } from './extensions/Focus'
